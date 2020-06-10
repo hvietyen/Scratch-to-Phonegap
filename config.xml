@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[hoctv.hvietyen.edu.mit.scratch]"
+        id          = "[hoctv.nguyenama.edu.mit.scratch]"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[HOCTV]</name>
+    <name>[hoctv]</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[hvietyen]" email="[hvietyen2@gmail.com]">
-        [hvietyen]
+    <author href="http://scratch.mit.edu/users/[nguyenama]" email="[hvietyen2@gmail.com]">
+        [nguyenama]
     </author>
 
 </widget>
